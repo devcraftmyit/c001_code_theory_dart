@@ -1,10 +1,13 @@
 
 
 void main() {
-  // opt 3 - call a function that prints a message
-  msg3();
+   // opt 4 - print the output /  (return statement ) from a function 
+  print (msg4());
+  
+  
 }
 
-msg3 () {
-  print ('Simple message to the console - using a function call ');
+String msg4(){
+  var message = 'Simple message to the console - using a [ return ] from a function call';
+  return message;
 }
