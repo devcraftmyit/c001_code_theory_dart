@@ -1,7 +1,10 @@
 
 
 void main() {
-  // Print a variable
-  var msg2 = 'Print a variable - Simple message to the console';
-  print (msg2);
+  // opt 3 - call a function that prints a message
+  msg3();
+}
+
+msg3 () {
+  print ('Simple message to the console - using a function call ');
 }
