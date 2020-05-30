@@ -1,5 +1,7 @@
 
 
 void main() {
-  print ('Opt 1 - Simple message to the console');
+  // Print a variable
+  var msg2 = 'Print a variable - Simple message to the console';
+  print (msg2);
 }
