@@ -87,24 +87,76 @@
 // Code Description:
 // Declare a function [ msg(){} ] of type [ String ]  
 // Code Answer -------------
+//void main(){
+//  int x = 2;
+//  int z;
+//  String y;
+//  if (x == 1){ 
+//      y = 'Hello World';
+//      msg(y);
+//      } else if (x == 2){
+//        z = 1343344;
+//        msg(z);
+//      }
+//}
+
+//dynamic msg(y){
+// print (y);
+//}
+
+
+
+
+
+// Code Theory: 10. String Interpolation
+
+
+
+
+// Introduction
+
+// These code tests deal with examples of String Interpolation
+// 
+
+// Template - Code Test
+// Code Test 1 ----------
+// Title: Strings containing [ double ] variables
+// Code Description:
+// declare a variable [ pie ] of type [ double  ]. Assign the value [ 3.124 ]  to [ pie ]  
+// Use the [ print ] function with a string literal argument ' The value of pie to 3 decimals is '
+// Append the [ double ] variable [ pie ] to the string literal using the appropiate notation.
+// Use 2nd [ print ] statement to print the string as above and the length of the value of [ pie ] 
+// Code Answer -------------
+//void main(){
+//  double pie = 3.142;
+//  String pieString = '3.142'; 
+  
+//  print ('The value of pie to 3 decimals is $pie');
+//  print ('The value of pie to 3 decimals is $pie then length of pie is ${pieString.length} ');
+//}
+
+
+
+
+ 
+// Code Theory: N. xxxxxx
+
+
+
+
+// Introduction
+
+// These code tests deal with examples of function annotation
+// 
+
+// Template - Code Test
+// Code Test 1 ----------
+// Title: String Type Functions
+// Code Description:
+// Declare a function [ msg(){} ] of type [ String ]  
+// Code Answer -------------
 void main(){
-  int x = 2;
-  int z;
-  String y;
-  if (x == 1){ 
-      y = 'Hello World';
-      msg(y);
-      } else if (x == 2){
-        z = 1343344;
-        msg(z);
-      }
-}
-
-dynamic msg(y){
- print (y);
-}
-
-
+ }
 
 // Templates ----------------------------
 
@@ -125,8 +177,8 @@ dynamic msg(y){
 // Code Description:
 // Declare a function [ msg(){} ] of type [ String ]  
 // Code Answer -------------
-// void main(){
-// }
+void main(){
+ }
 
 
 
